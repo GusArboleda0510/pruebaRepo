@@ -1,6 +1,2 @@
-hola esta es mi version final del archivo porque estoy haciendo un experimento
-hola esta es mi version final del archivo
-
-ESTA ES UNA PRUEBA DE STASH 
 hola esta es mi version final del archivo
 stash 2
