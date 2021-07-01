@@ -1,2 +1,3 @@
 hola esta es mi version final del archivo
-stash 2
+
+ESTA ES UNA PRUEBA DE STASH 
